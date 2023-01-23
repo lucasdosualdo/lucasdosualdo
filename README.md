@@ -14,7 +14,7 @@
 - During this period I developed several projects in Node.js, Javascript and its frameworks, SQL and NoSQL databases.
 - Particularly I believe that this is the best way to learn to code.
 - I'm currently learning Docker and AWS.
-- You're welcome to view them here on my profile! 😉
+- You're welcome to view them [here](https://github.com/lucasdosualdo?tab=repositories) on my profile! 😉
 
 ### ⚡ Describe me in one line? OK! 
 
