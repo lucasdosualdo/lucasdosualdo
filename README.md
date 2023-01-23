@@ -2,10 +2,14 @@
 
 <h2>I'm a Full Stack Developer from Brazil</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=lucasdosualdo&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
-<img align = "right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdosualdo&layout=compact&theme=tokyonight"/>
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdosualdo&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=lucasdosualdo&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+</div>
 
-<br/>
+
+
+
 
 ##
 ### 🌱 What have I done in the last few months? 
@@ -39,6 +43,7 @@ A guy glimpsed with technology and music. Unfortunately I'm terrible at guitar..
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
+
 
 ##
 ### 📫 You can find me at
