@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=lucasdosualdo&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
 <img align = "right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdosualdo&layout=compact&theme=tokyonight"/>
 
-
+<br/>
 
 ##
 ### 🌱 What have I done in the last few months? 
