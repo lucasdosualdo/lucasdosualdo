@@ -11,7 +11,7 @@
 ##
 ### 🌱 What have I done in the last few months? 
 
-- During this period I developed several projects in Node.js, Javascript and its frameworks, SQL and NoSQL databases.
+- During this period I developed several projects in Node.js, Javascript and its frameworks, with SQL and NoSQL databases.
 - Particularly I believe that this is the best way to learn to code.
 - I'm currently learning Docker and AWS.
 - You're welcome to view them [here](https://github.com/lucasdosualdo?tab=repositories) on my profile! 😉
