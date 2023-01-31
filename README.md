@@ -2,13 +2,6 @@
 
 <h2>I'm a Full Stack Developer from Brazil</h2>
 
-<div style="display: flex;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/?username=lucasdosualdo&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdosualdo&layout=compact&theme=tokyonight"/>
-</div>
-
-##
 ### 🌱 What have I done in the last few months? 
 
 - During this period I developed several projects in Node.js, Javascript and its frameworks, with SQL and NoSQL databases.
@@ -19,6 +12,14 @@
 ### ⚡ Describe me in one line? OK! 
 
 A guy glimpsed with technology and music. Unfortunately I'm terrible at guitar... but relax! I'm much better at coding 😄
+
+##
+
+<div style="display: flex;">
+  
+  <img src="https://github-readme-stats.vercel.app/api/?username=lucasdosualdo&show_icons=true&title_color=7159c1&text_color=b1b2ae&bg_color=00000000&hide_border=true&icon_color=7159c1&hide_title=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdosualdo&layout=compact&theme=tokyonight"/>
+</div>
 
 ##
 ### 👾 Languages and Tools
