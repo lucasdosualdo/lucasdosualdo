@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24" />
 
-<h2>I'm a Full Stack Developer from Brazil</h2>
+<h2>I'm a Full Stack Developer</h2>
 
 ### 🌱 What have I done in the last few months? 
 
